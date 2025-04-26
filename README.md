@@ -4,9 +4,9 @@ Het perfecte pizzajob systeem voor roleplay servers! Ga naar de chef en start je
 
 # Dependencies
 
-ES_Extended
-OX_lib
-OX_Inventory
+- ES_Extended
+- OX_lib
+- OX_Inventory
 
 
 
