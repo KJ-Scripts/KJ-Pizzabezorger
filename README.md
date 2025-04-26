@@ -8,4 +8,7 @@ ES_Extended
 OX_lib
 OX_Inventory
 
-https://cdn.discordapp.com/attachments/1353076267938746460/1353100799848480840/KJScriptsPizza.mp4?ex=680de892&is=680c9712&hm=f2b5b32bed074f753653ca978e7b6f6da39f2a81389c8d624613af16735d64c2&
+
+
+https://github.com/user-attachments/assets/4ff7602e-87aa-4cf3-b3bb-139548564aa5
+
